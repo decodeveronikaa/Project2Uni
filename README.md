@@ -31,3 +31,5 @@ Run the Application:
 
 Open the solution in Visual Studio.
 Build and run the application.
+
+Note: In order to run the project you have to execute all questions sql server and then replace the connection string "DefaultConnection" value in appsettings file with your connection string.
